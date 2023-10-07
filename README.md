@@ -17,6 +17,10 @@ Tutor instal Project:
 - Composer install.
 - Composer require laravel/passport.
 - php artisan migrate
+- php artisan passport:install
+- copy hasil dari "Client Secret:"
+- lalu paste ke AuthController dalam class login di dalam variable data "client_secret"
+- paste juga id dari "Client ID:" dan ganti variable data "client_id"
 
 setelah itu run:
 - php artisan serve
