@@ -21,7 +21,9 @@ Tutor instal Project:
 setelah itu run:
 - php artisan serve
 
+buka postman
+link:  **[Testing](https://www.postman.com/bold-resonance-257575/workspace/laravel-test/collection/17097125-a5a620f8-458e-4d4b-b7d0-26ab85ab6130?action=share&creator=17097125)**
 
-## License
+## Note
 
-this project for requirement test
+Project ini mengenai berita beserta komentar nya, project ini hanya untuk requirement test backend dev
